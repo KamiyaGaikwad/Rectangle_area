@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
+body {
+    background-color: #1F2836;
+    color: #F8FAFA;
+    margin: auto;
+    text-align: center;
+    font-family: 'Baloo 2', cursive;
+
+}
+
+input {
+    background-color: #79909D;
+    border: 1px solid #79909D;
+    padding: 0.3rem;
+}
+
+label {
+    display:block;
+    margin-bottom:2rem;
+    font-size: large;
+}
+
+button {
+    margin-top:1rem;
+    padding:0.5rem;
+    border-radius: 0.3rem;
+    border: 1px solid #79909D;
+    margin-bottom: 2rem;
+    font-size: medium;
+    background-color:rgba(0, 0, 0, 0.514);
+    color:#F8FAFA;
+    cursor: pointer;
+    font-family: 'Baloo 2', cursive;
+
+}
+
+#output {
+    font-size: x-large;
+}
+
+#formula {
+    font-size: larger;
+    border:2px solid #79909D;
+    width:25%;
+    margin:auto;
+    margin-bottom:2rem;
+    padding:1rem;
+}
