@@ -46,3 +46,9 @@ button {
     margin-bottom:2rem;
     padding:1rem;
 }
+
+@media only screen and (max-width:600px){
+    #formula {
+        width:80%;
+    }
+}
